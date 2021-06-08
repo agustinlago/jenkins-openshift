@@ -445,7 +445,7 @@
         {
             "name": "GIT_REF",
             "description": "Git Branch",
-            "value": "master"
+            "value": "main"
         },
         {
             "name": "EXECUTORS",
